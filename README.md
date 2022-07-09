@@ -1,8 +1,11 @@
 ### Hi there 👋
+- 
 
 
 ### I’m currently learning 🌱
-- 🤖 ** AI ** 
+- 🤖 **AI**
+- 🌐 **Front End development
+- 💻 **Blockchain
 <!--
 **parkkh07/parkkh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
